@@ -1,0 +1,1 @@
+This project is a web scraper built to navigate a structured static e-commerce site. It automatically traverses categories, subcategories, and paginated listing pages to visit individual product detail pages. It extracts, cleans, and deduplicates the data, finally exporting a complete product dataset and a calculated category summary report.
